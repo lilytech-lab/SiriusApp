@@ -97,8 +97,8 @@
       "url": "_framework\/Newtonsoft.Json.ryat7hvx56.wasm.br"
     },
     {
-      "hash": "sha256-Jz4tipXQflOYebzYvmT1zn39zf5HbTslCxTN8Kkpuqc=",
-      "url": "_framework\/SiriusApp.cdyw993957.wasm.br"
+      "hash": "sha256-dCdxWIGtPEFTMRA8eYC+VlQFMWdbJyuMix5\/7lpjGAI=",
+      "url": "_framework\/SiriusApp.h3psqnt65i.wasm.br"
     },
     {
       "hash": "sha256-yw1AUJzlNc8p\/apyIJueI\/QSvSrQHSWb1JpCFI\/IP2A=",
@@ -253,7 +253,7 @@
       "url": "_framework\/System.pndwwxah3a.wasm.br"
     },
     {
-      "hash": "sha256-DlhYHFyz65qouo7CzVY2163FIki0Urpivy5+7TDMUa4=",
+      "hash": "sha256-GToV0gk2B5Z6kuLHohVS7SHYbctElrQnekbIc1E49dY=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -501,5 +501,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "NuAFqeMU"
+  "version": "+PFFXqs5"
 };
