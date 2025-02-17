@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SiriusApp",
   "resources": {
-    "hash": "sha256-PyCVRsQ+kqxl3Oemphv/yJbsuQ3nLzOxzYC2lU1y984=",
+    "hash": "sha256-i0JxnEToDq1N23bzYXdxSPDwPdS9BCmgrfdXx4IVxMU=",
     "fingerprinting": {
       "Blazm.Bluetooth.5uiry4noxr.wasm": "Blazm.Bluetooth.wasm",
       "Microsoft.AspNetCore.Components.Forms.p4cmqynr10.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -25,7 +25,7 @@
       "MudBlazor.en49jmjs5m.wasm": "MudBlazor.wasm",
       "netstandard.tsn2fam7pc.wasm": "netstandard.wasm",
       "Newtonsoft.Json.ryat7hvx56.wasm": "Newtonsoft.Json.wasm",
-      "SiriusApp.8byyjym9sk.wasm": "SiriusApp.wasm",
+      "SiriusApp.l3s6j9s0iz.wasm": "SiriusApp.wasm",
       "System.Collections.Concurrent.dtlyx5buga.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.kffnmll0bj.wasm": "System.Collections.Immutable.wasm",
       "System.Collections.NonGeneric.uml39a9tnh.wasm": "System.Collections.NonGeneric.wasm",
@@ -113,7 +113,7 @@
       "MudBlazor.en49jmjs5m.wasm": "sha256-yrqhlyGrcoU/YSD1HLD3WKhwMvx0kTgvEEBnDdKW80A=",
       "netstandard.tsn2fam7pc.wasm": "sha256-/dvkuSBcT5Ns3Uc5IzqfafDQ2hGFZQnBpsgR5FzlbA8=",
       "Newtonsoft.Json.ryat7hvx56.wasm": "sha256-PaicHOw1U7HF05kEvZI0Rgg1nwdA8hrzbzdkw1qgUuU=",
-      "SiriusApp.8byyjym9sk.wasm": "sha256-ND3hPhia0xkWqB6MAVUbHAIGdjrwrhd/epB5CAjoiLI=",
+      "SiriusApp.l3s6j9s0iz.wasm": "sha256-P7Uwkweui+DyBvfQe65FnV3mc6fAKwI4Qf7UvI8uoVY=",
       "System.Collections.Concurrent.dtlyx5buga.wasm": "sha256-DzhrCSWFocf5MsYClPqSbb/oi1iMghifb2JBpBUD3Fg=",
       "System.Collections.Immutable.kffnmll0bj.wasm": "sha256-ILjYIOU1iInPPSfX+KkXsCxPoIHj7T36o3EcIq+PQFk=",
       "System.Collections.NonGeneric.uml39a9tnh.wasm": "sha256-RnFDgR1ivQNPhqotX0L13hu3d8tHb6zwUmaZvs68J9A=",
