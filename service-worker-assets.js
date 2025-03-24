@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-YeIYUfAZz6vf+N6c3qBckH5eECbYr3SNgMLRXzNq6nE=",
+      "hash": "sha256-A7PPMhWzW2d+TyAjDjLGbGspq67kaIuoy7ViUfiDFtA=",
       "url": "_content\/Blazm.Bluetooth\/Blazm.Bluetooth.js.br"
     },
     {
@@ -97,8 +97,8 @@
       "url": "_framework\/Newtonsoft.Json.ryat7hvx56.wasm.br"
     },
     {
-      "hash": "sha256-Usr66iiev9kvqdwea1EtzjXLOV1qwkhVriw9ua60XRE=",
-      "url": "_framework\/SiriusApp.ribwrxlf3i.wasm.br"
+      "hash": "sha256-AlWxomSX2bty8VgOu9mNo9V5uTaDMqUuqT+9FqhZXnI=",
+      "url": "_framework\/SiriusApp.jwrceerdjs.wasm.br"
     },
     {
       "hash": "sha256-yw1AUJzlNc8p\/apyIJueI\/QSvSrQHSWb1JpCFI\/IP2A=",
@@ -257,7 +257,7 @@
       "url": "_framework\/System.pndwwxah3a.wasm.br"
     },
     {
-      "hash": "sha256-jUAU7ZSLCW1nGJoLVWI3Adc3hxo\/fUiHA\/c7hhIBSz4=",
+      "hash": "sha256-umx2n7l4JZmzIgntJCZ6ryIaNZYEL\/zOxykyI\/A5hp4=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -505,5 +505,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "jSImBk2A"
+  "version": "pNzEGBff"
 };
