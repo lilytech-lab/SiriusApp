@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SiriusApp",
   "resources": {
-    "hash": "sha256-XZmuAnf+7/Dr34sb//hN4DhOutGojJBWz2MkZ8b41M0=",
+    "hash": "sha256-73kZO8JVIwknTYZWpl4fRL0ySi3O6nsISXxnpZR8d64=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.Forms.p4cmqynr10.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
       "Microsoft.AspNetCore.Components.o1m5okueg1.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -21,7 +21,7 @@
       "Microsoft.JSInterop.agnux60n3l.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.8eb000j8w7.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
       "MudBlazor.xjdb9om7fa.wasm": "MudBlazor.wasm",
-      "SiriusApp.qi4o8198lj.wasm": "SiriusApp.wasm",
+      "SiriusApp.kszqhermnt.wasm": "SiriusApp.wasm",
       "System.Collections.Concurrent.xb45u9t2a0.wasm": "System.Collections.Concurrent.wasm",
       "System.Collections.Immutable.f1ce80ns32.wasm": "System.Collections.Immutable.wasm",
       "System.Collections.q0q85v649n.wasm": "System.Collections.wasm",
@@ -92,7 +92,7 @@
       "Microsoft.JSInterop.agnux60n3l.wasm": "sha256-xtQtSoK56ZLcZdr1TPIw4dex5O90dyRzRhWC9Coj9J8=",
       "Microsoft.JSInterop.WebAssembly.8eb000j8w7.wasm": "sha256-sGms9Oai1ztzgfMsqBvmeKwa5ZyGWr/AEXr6thw0lso=",
       "MudBlazor.xjdb9om7fa.wasm": "sha256-XUJkLPs7rUEK96whaxjRwM1P+raTKceVeud0uUbIZYM=",
-      "SiriusApp.qi4o8198lj.wasm": "sha256-4mhjA2p4TAEFPz9uQVrdIpSVo0Qnzk57pSh5bDCu/3o=",
+      "SiriusApp.kszqhermnt.wasm": "sha256-TO+InGEpT2usXg2fPGQM/lWHm3H9F8zmykpuUBt9WXw=",
       "System.Collections.Concurrent.xb45u9t2a0.wasm": "sha256-02ggB0ZBjTHGDP6vfyxM1wgpQhq96WVOIlaWM3ywif8=",
       "System.Collections.Immutable.f1ce80ns32.wasm": "sha256-jVMElT4Dv5+ODKXbya+BHVwXNU0K+AE4iPSNYvfLEXc=",
       "System.Collections.q0q85v649n.wasm": "sha256-RmlHQQvH4zq6AUoG61F8tLHdyFUBFyiMSz7C1d6lQLs=",
