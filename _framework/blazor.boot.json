@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SiriusApp",
   "resources": {
-    "hash": "sha256-E32t/yEgwmbf3Gdd8k4w7Ei89YHq5nV6w3d+4TIKw84=",
+    "hash": "sha256-EZK9Xc02cTv9dydXpntsTeWGmF/482UhfVjbGVJV/X0=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.o1m5okueg1.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.p4cmqynr10.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -46,7 +46,7 @@
       "System.Threading.1zdcxdxxda.wasm": "System.Threading.wasm",
       "System.ezrw3d5kw2.wasm": "System.wasm",
       "System.Private.CoreLib.h9vq2lws9i.wasm": "System.Private.CoreLib.wasm",
-      "SiriusApp.ykge67qdpa.wasm": "SiriusApp.wasm",
+      "SiriusApp.bhaycgv4f0.wasm": "SiriusApp.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.uhsveqo9bs.js": "dotnet.native.js",
       "dotnet.native.swgexbmoy7.wasm": "dotnet.native.wasm",
@@ -115,7 +115,7 @@
       "System.Text.RegularExpressions.xm2gsqk2m5.wasm": "sha256-p4r+hs4jgtmFZsgNMgfZB1XAyK1YyqVqjw6N3KiyRZI=",
       "System.Threading.1zdcxdxxda.wasm": "sha256-vTZNFSZOWDwpEr2E67SJDUQKO29mWQqVcR0XWYnj3ZQ=",
       "System.ezrw3d5kw2.wasm": "sha256-ViNRvhyxlTugIlqJHamw/HwbXlg/YWcrANmxuTM0tfg=",
-      "SiriusApp.ykge67qdpa.wasm": "sha256-jpK/k9pXFMrFXh81EsVFlxg4DgzH0F1ME8XdQao2k8c="
+      "SiriusApp.bhaycgv4f0.wasm": "sha256-jyWx4daKsjgoYGBiKqL3o/6BDur9WMOxwMO3tIlEv3A="
     }
   },
   "cacheBootResources": true,
