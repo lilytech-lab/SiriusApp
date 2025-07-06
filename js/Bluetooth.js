@@ -115,7 +115,7 @@ const disconnect = device => {
     }
 }
 
-const log = text => console.log('[' + new Date().toJSON().substr(11, 8) + '] ' + text);
+const log = text => console.log('[' + new Date().toJSON().substring(11, 20) + '] ' + text);
 
 const getDevice = deviceId => PairedBluetoothDevices[deviceId];
 

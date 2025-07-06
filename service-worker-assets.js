@@ -81,8 +81,8 @@
       "url": "_framework\/MudBlazor.xjdb9om7fa.wasm.br"
     },
     {
-      "hash": "sha256-XF0L4ASFgs9TYl+EAT5UpO+A7jGcd56n6qE\/xF+\/6zo=",
-      "url": "_framework\/SiriusApp.osichnk3gu.wasm.br"
+      "hash": "sha256-Nq6a9xSgLQJDbpGbpIM8yXJzQDi3rcl3Tjz9B4r9dbU=",
+      "url": "_framework\/SiriusApp.n96up08d54.wasm.br"
     },
     {
       "hash": "sha256-JI5zz8ELp6GMT6g7f0N0rRr5RHx7\/IulJwTJViWJUPA=",
@@ -161,8 +161,8 @@
       "url": "_framework\/System.Runtime.InteropServices.gmhlr8xdyr.wasm.br"
     },
     {
-      "hash": "sha256-qGWTRrX3kXydK59DY21z+MUfj84XlgPqXBeN8fln09c=",
-      "url": "_framework\/System.Runtime.h64mzmpkzr.wasm.br"
+      "hash": "sha256-dn8gcHtIkBmhXBGhwEySf8ZfphQPHiA5lT++FYswnOY=",
+      "url": "_framework\/System.Runtime.gdr3ztv7k6.wasm.br"
     },
     {
       "hash": "sha256-AvSFH\/mfdz4iJzEy99uuPs5QYB9KIFMwpoHSRZ5Sp8w=",
@@ -185,7 +185,7 @@
       "url": "_framework\/System.ezrw3d5kw2.wasm.br"
     },
     {
-      "hash": "sha256-Ud7ZAGLL9ycKKUfReQzlYrEgbW1XynNSNGnq2Fsu1QY=",
+      "hash": "sha256-GIe7xoFdms4bUbpmZQ4kqIxv\/P8ddpRIKr4KoB85sdY=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -241,7 +241,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-JjZnaJz2RMr3FxV1xtBejl+AvOiaDmsYmNsnLpJHDqk=",
+      "hash": "sha256-dv\/yEMolAiPiQNeuMp+k44SnOgfuoCiwxt\/0lJZ4umo=",
       "url": "js\/Bluetooth.js.br"
     },
     {
@@ -433,5 +433,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "3ialTMpl"
+  "version": "FDavENMN"
 };
