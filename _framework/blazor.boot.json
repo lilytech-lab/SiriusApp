@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "SiriusApp",
   "resources": {
-    "hash": "sha256-HGX0VNT1jruAP9vMLxPSxaeqo/w63A83S+Wx7SEFWBo=",
+    "hash": "sha256-hQMf3QP/DUcQ0mvcLapu6W/kB4PXloVxD0T6N2ecS7k=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.nxwodydvnj.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.p4cmqynr10.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -45,8 +45,8 @@
       "System.Text.RegularExpressions.fdyzqid0o4.wasm": "System.Text.RegularExpressions.wasm",
       "System.Threading.1zdcxdxxda.wasm": "System.Threading.wasm",
       "System.ezrw3d5kw2.wasm": "System.wasm",
-      "System.Private.CoreLib.onwxiehesf.wasm": "System.Private.CoreLib.wasm",
-      "SiriusApp.n96up08d54.wasm": "SiriusApp.wasm",
+      "System.Private.CoreLib.jf3kxvy6of.wasm": "System.Private.CoreLib.wasm",
+      "SiriusApp.iiacl8yxmp.wasm": "SiriusApp.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.uhsveqo9bs.js": "dotnet.native.js",
       "dotnet.native.swgexbmoy7.wasm": "dotnet.native.wasm",
@@ -71,7 +71,7 @@
     },
     "coreAssembly": {
       "System.Runtime.InteropServices.JavaScript.83zwdhfd7p.wasm": "sha256-pLr/Ys4hCRUIbnJOTabUttdOQTgaKzJPRmT6/do1uGg=",
-      "System.Private.CoreLib.onwxiehesf.wasm": "sha256-lP2J+W5I0tpP5Ae4Gs/9RlVZLVXE6QVfTXU1JUvePKs="
+      "System.Private.CoreLib.jf3kxvy6of.wasm": "sha256-X4sPoEWbjDVICmdJK1480DC1mRYVdXbbnpHZtaMdixM="
     },
     "assembly": {
       "Microsoft.AspNetCore.Components.nxwodydvnj.wasm": "sha256-Rb423vbfHZmRME6R+faQbSr9hlqBgLoNGatSV0DmOOg=",
@@ -115,7 +115,7 @@
       "System.Text.RegularExpressions.fdyzqid0o4.wasm": "sha256-PbXQmQMzD7uf6sND9pkNvDjmVOgFhJDXydFwgmsWiyI=",
       "System.Threading.1zdcxdxxda.wasm": "sha256-vTZNFSZOWDwpEr2E67SJDUQKO29mWQqVcR0XWYnj3ZQ=",
       "System.ezrw3d5kw2.wasm": "sha256-ViNRvhyxlTugIlqJHamw/HwbXlg/YWcrANmxuTM0tfg=",
-      "SiriusApp.n96up08d54.wasm": "sha256-xQszUkAfTvikd9fEXpM8ajfwf/fVXrk9wMjmholRYRI="
+      "SiriusApp.iiacl8yxmp.wasm": "sha256-OnWIQchZzt5o3BSdGC7ATa5LFAbkl4tM0l4yMleAIRQ="
     }
   },
   "cacheBootResources": true,
