@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-Y9U7TXj4IxKf26OFxeluofIhXPcn7Lyw7\/02CT+G3tA=",
+      "hash": "sha256-Zy2lSWHbkuYxvWeJEWM\/ghIdq5I\/PcezQeq3W4iplk4=",
       "url": "FW\/Sirius.bin"
     },
     {
@@ -85,8 +85,8 @@
       "url": "_framework\/MudBlazor.m7rroh4049.wasm.br"
     },
     {
-      "hash": "sha256-xVC\/2av3M4QufNAEpNWYJJLUHwjLqqtSN3NwpI5xCbg=",
-      "url": "_framework\/SiriusApp.teh8h5r4mq.wasm.br"
+      "hash": "sha256-kn++mkl1vssUAHTX3WfYUt9EhSK\/xrWmWMB8Xz2bc70=",
+      "url": "_framework\/SiriusApp.sdlql9ds16.wasm.br"
     },
     {
       "hash": "sha256-JI5zz8ELp6GMT6g7f0N0rRr5RHx7\/IulJwTJViWJUPA=",
@@ -153,12 +153,16 @@
       "url": "_framework\/System.ObjectModel.fjm8uc0elu.wasm.br"
     },
     {
-      "hash": "sha256-iNg4zRwJMkvAuRA6Ba7DdHVADx+DI3MG5TY\/Sq0qkMk=",
-      "url": "_framework\/System.Private.CoreLib.aeb8h9otsd.wasm.br"
+      "hash": "sha256-KxjXEeOKowYZvRvbGdaYCzOp1j7EFdxnOtZpC22ACGY=",
+      "url": "_framework\/System.Private.CoreLib.766mthmcwe.wasm.br"
     },
     {
       "hash": "sha256-1nbe23lL64IybR60cOy9ftuoYgB3tW34rBfZ3mjR544=",
       "url": "_framework\/System.Private.Uri.8j72qbx6ih.wasm.br"
+    },
+    {
+      "hash": "sha256-rRcfioKB+Z1DgCDn9Od9Wa+eGxmpMVx1V7CoF7AvLaU=",
+      "url": "_framework\/System.Runtime.5uxq9he31q.wasm.br"
     },
     {
       "hash": "sha256-blhjjjV6xgOQj9CU1YvtRuSa+6CCWZqQk9uRHkkEyAE=",
@@ -167,10 +171,6 @@
     {
       "hash": "sha256-vsiVpfjw8qDozyuEW9azTvgjqa\/tx0BxtyelNy6z8q4=",
       "url": "_framework\/System.Runtime.InteropServices.gmhlr8xdyr.wasm.br"
-    },
-    {
-      "hash": "sha256-CobfGIBGT1SJxV7un75Xj4i6NHyngBiVT1vij4At4Sg=",
-      "url": "_framework\/System.Runtime.gth1nghy2h.wasm.br"
     },
     {
       "hash": "sha256-AvSFH\/mfdz4iJzEy99uuPs5QYB9KIFMwpoHSRZ5Sp8w=",
@@ -193,7 +193,7 @@
       "url": "_framework\/System.ezrw3d5kw2.wasm.br"
     },
     {
-      "hash": "sha256-xeKOJz0OIQGS8K8Q3puRWbPwCmgAxeNtGNnYo1MXU64=",
+      "hash": "sha256-xLV6Kbuj1g\/CJhX6r9WRT\/Yo9rLnaFPWzCOV\/8\/IGMg=",
       "url": "_framework\/blazor.boot.json.br"
     },
     {
@@ -227,6 +227,10 @@
     {
       "hash": "sha256-fv9mQqIBur\/JQyexfKrVYjdpw7zdaW4zV4qxIkzgxlI=",
       "url": "_framework\/icudt_no_CJK.lfu7j35m59.dat.br"
+    },
+    {
+      "hash": "sha256-nDkpr2PQjDQIuJSRyI8t3Rgmmgz26QeCeG4sRvSqU\/c=",
+      "url": "_framework\/ja\/SiriusApp.resources.shc8bq384k.wasm.br"
     },
     {
       "hash": "sha256-GcC2mu\/0dSlH1R7Epe8U1LpxMTZonYGaFcQxtvf43w0=",
@@ -441,5 +445,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "NhjeNU1r"
+  "version": "60ox1GC9"
 };
