@@ -89,8 +89,8 @@
       "url": "_framework\/MudBlazor.frmfksdlgy.wasm.br"
     },
     {
-      "hash": "sha256-k0ttIafVccXa6LcWg34RD4VhTR2uvUR5u0NYSaXqCvs=",
-      "url": "_framework\/SiriusApp.siazqfa7y2.wasm.br"
+      "hash": "sha256-68BLlIxst8D3t\/mpsuT+eGHtjvOLGZJscYq\/8BebxD4=",
+      "url": "_framework\/SiriusApp.jf5u8t4kus.wasm.br"
     },
     {
       "hash": "sha256-R3mxRxOZgy1HbQ4nafdmvG3Ro+b9y2k79+pcRCyahtU=",
@@ -129,12 +129,12 @@
       "url": "_framework\/System.IO.Pipelines.vghmabkwgd.wasm.br"
     },
     {
-      "hash": "sha256-IbF5yx8u\/azwIuevsyXaR7pBemSe6AXWISJBhhcML9U=",
-      "url": "_framework\/System.Linq.09hu3qrhig.wasm.br"
-    },
-    {
       "hash": "sha256-to6kCBd9x196yRyla00Pg4dfWMu2EGOU\/Q8krUh5ShM=",
       "url": "_framework\/System.Linq.Expressions.g32rtyx0jg.wasm.br"
+    },
+    {
+      "hash": "sha256-Us1ZkvxvFKnpCCZlBsIKgpsdsB\/PVZEY+kIXe3Vmhhg=",
+      "url": "_framework\/System.Linq.af0wv1mqad.wasm.br"
     },
     {
       "hash": "sha256-lMX9YpQD5RKI0fMx6aj+4jXCxuRD35Ugbj8ECZWhUBM=",
@@ -149,8 +149,8 @@
       "url": "_framework\/System.Net.Primitives.gl2sy2s492.wasm.br"
     },
     {
-      "hash": "sha256-4LdebK9zdHnGXNgf95RVFKgUHWMXRSFCj\/8pe7O1j1o=",
-      "url": "_framework\/System.Private.CoreLib.f0o08bmfwv.wasm.br"
+      "hash": "sha256-54nKbdNe4lt2W68bDoKdbwIUwADyb52Hfz1Q1DDHyk8=",
+      "url": "_framework\/System.Private.CoreLib.r2pdrmbapo.wasm.br"
     },
     {
       "hash": "sha256-Y9fYcqqixqqFOpu4cKXOf5aNyioXZXsEYNlpuNv7NK8=",
@@ -197,7 +197,7 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-7Vfyzgo7EAl\/P\/\/bF3cSDDeOVMpCOFOPJr07Ug3kDmo=",
+      "hash": "sha256-N2QMfujcHM3CIplHf2xmqfJWeBr03p8XIf\/XH3TGRXI=",
       "url": "_framework\/dotnet.js"
     },
     {
@@ -225,8 +225,8 @@
       "url": "_framework\/icudt_no_CJK.lfu7j35m59.dat.br"
     },
     {
-      "hash": "sha256-xPf6mVcQapx7zsa4J3IAehW\/kUExNls3MDlyPRZaa4Y=",
-      "url": "_framework\/ja\/SiriusApp.resources.s8nci5syd8.wasm.br"
+      "hash": "sha256-\/57MGbG\/y603UBhQDYLBl7x1mmiDEZBmDENELb4aKK4=",
+      "url": "_framework\/ja\/SiriusApp.resources.lfb3xj3ixp.wasm.br"
     },
     {
       "hash": "sha256-aHigjMpcsgpWr4gI5AuTuzr3ZgqvuvnoObyFsKhk7i0=",
@@ -441,5 +441,5 @@
       "url": "brotliloader.min.js"
     }
   ],
-  "version": "xW8EJ7lP"
+  "version": "K70oOB9M"
 };
